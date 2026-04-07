@@ -2,6 +2,10 @@
 
 An interactive 3D particle animation project built using Three.js where particles dynamically morph between a heart shape ❤️ and user-entered text in real-time.
 
+**Live working view**
+:- see the working of the code through the video.mp4 file provided in the github repo
+
+
 ---
 
 🚀 Features
